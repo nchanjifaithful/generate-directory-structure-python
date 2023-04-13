@@ -1,0 +1,103 @@
+1- Introduction
+2- How to Take This Course
+3- What is Git
+4- Using Git 
+5- Installing Git 
+6- Configuring Git 
+7- Getting Help 
+8- Cheat Sheet
+01- Introduction
+02- Initializing a Repository 
+03- Git Workflow
+04- Staging Files 
+05- Committing Changes
+06- Committing Best Practices 
+07- Skipping the Staging Area
+08- Removing Files 
+09- Renaming or Moving Files 
+10- Ignoring Files
+11- Short Status 
+12- Viewing Staged and Unstaged Changes 
+13- Visual Diff Tools 
+14- Viewing History 
+15- Viewing a Commit
+16- Unstaging Files 
+17- Discarding Local Changes
+18- Restoring a File to an Earlier Version
+19- Creating Snapshots with VSCode
+20- Creating Snapshots with GitKraken
+01- Introduction
+02- Getting a Repository 
+03- Viewing the History 
+04- Filtering the History 
+05- Formatting the Log Output
+06- Aliases 
+07- Viewing a Commit 
+08- Viewing the Changes Across Commits
+09- Checking Out a Commit 
+10- Finding Bugs Using Bisect 
+11- Finding Contributors Using Shortlog 
+12- Viewing the History of a File 
+13- Restoring a Deleting File 
+14- Finding the Author of Line Using Blame 
+15- Tagging 
+16- Browsing History Using VSCode 
+17- Browsing the History Using GitKraken
+01- Introduction
+02- What are Branches
+03- Getting a Repository 
+04- Working with Branches 
+05- Comparing Branches 
+06- Stashing
+07- Merging 
+08- Fast-forward Merges 
+09- Three-way Merges 
+10- Viewing Merged and Unmerged Branches
+11- Merge Conflicts 
+12 - Graphical Merge Tools 
+13- Aborting a Merge 
+14- Undoing a Faulty Merge 
+15- Squash Merging 
+16- Rebasing
+17- Cherry Picking 
+18- Picking a File from Another Branch 
+19- Branching in VSCode 
+20- Branching in GitKraken
+01- Introduction
+02- Workflows 
+03- Creating a GitHub Repository 
+04- Adding Collaborators 
+05- Cloning a Repository 
+06- Fetching 
+07- Pulling 
+08- Pushing 
+09- Storing Credentials
+10- Sharing Tags 
+11- Releases
+12- Sharing Branches 
+13- Collaboration Workflow
+14- Pull Requests
+15- Resolving Conflicts 
+16- Issues 
+17- Labels
+18- Milestones
+19- Contributing to Open-source Projects 
+20- Keeping a Forked Repository Up to Date
+21- Collaboration Using VSCode 
+22- Collaboration Using GitKraken
+01- Introduction
+02- Why Rewrite History 
+03- The Golden Rule of Rewriting History 
+04- Example of a Bad History 
+05- Undoing Commits 
+06- Reverting Commits 
+07- Recovering Lost Commits 
+08- Amending the Last Commit 
+09- Amending an Earlier Commit 
+10- Dropping Commits 
+11- Rewording Commit Messages 
+12- Reordering Commits 
+13- Squashing Commits 
+14- Splitting a Commit 
+15- Rewriting History Using GitKraken 
+17- Course Wrap Up
