@@ -1,0 +1,6 @@
+01. Getting Started(15mins)
+02. Creating Snapshots(60mins)
+03. Browsing History(44mins)
+04. Branching(76mins)
+05. Collaboration(70mins)
+06. Rewriting History(56mins)
